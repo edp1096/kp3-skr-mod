@@ -19,7 +19,7 @@
 ## Parts you prepared
 * Micro sd extension adapter
 * USB mini-b extension cable
-* Dupont jumper cable - 3pin (MKS Robin) to 2pin (SKR mini) for fans connection on KP3
+* Dupont jumper cable (male-female) - 3pin (MKS Robin) to 2pin (SKR mini) for fans connection on KP3
 * Display
    * OLED 0.96"
    * Rotary Switch
