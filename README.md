@@ -16,7 +16,7 @@
 * I used freecad for design board mount.
 * Not tested yet. You may should check and edit dimension.
 
-## Parts you prepared
+## Parts you should prepare
 * Micro sd extension adapter
 * USB mini-b extension cable
 * Dupont jumper cable (male-female) - 3pin (MKS Robin) to 2pin (SKR mini) for fans connection on KP3
