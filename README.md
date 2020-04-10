@@ -19,7 +19,11 @@
 ## Parts you prepared
 * Micro sd extension adapter
 * USB mini-b extension cable
+* Display
+   * OLED 0.96"
+   * Rotary Switch
+   * Speaker
 
 ## Todo
-* [ ] OLED 0.96 Display, Rotary Switch, Speaker schematic, Pin map
-* [ ] OLED 0.96 Display, Rotary Switch, Speaker model
+* [ ] Pin map for display
+* [ ] Mount model for display
