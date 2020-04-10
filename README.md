@@ -12,5 +12,4 @@
 
 ## Mount
 * I used freecad for design board mount.
-
-
+* Not tested yet. You may should check and edit dimension.
