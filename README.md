@@ -25,5 +25,5 @@
    * Speaker
 
 ## Todo
-* [ ] Pin map for display
+* [ ] Schematic, Pin map for display
 * [ ] Mount model for display
