@@ -16,12 +16,12 @@
 ## Parts you should prepare
 * Micro sd extension adapter
 * USB mini-b extension cable
-* Dupont jumper cable (male-female) - ~~~3pin (MKS Robin) to 2pin (SKR mini) for fans connection on KP3~~~
+* Dupont jumper cable (male-female) - <del>3pin (MKS Robin) to 2pin (SKR mini) for fans connection on KP3</del>
     * JST XH2.5 crimp tool - https://www.amazon.com/IWISS-Terminal-Crimping-SN-01BM-0-08-0-5mm/dp/B019ARWWFY
-* Display - ~~~OLED 0.96`, Rotary Switch, Speaker~~~
+* Display - <del>OLED 0.96`, Rotary Switch, Speaker</del>
     * Zonestar OLED Display - https://aliexpress.com/item/4000839370779.html
 
 ## Todo
-* [ ] ~~~Schematic, Pin map for display~~~
+* [ ] <del>Schematic, Pin map for display</del>
 * [V] Mount model for display
 * [ ] Marlin configuragtion for Zonestar LCD using
