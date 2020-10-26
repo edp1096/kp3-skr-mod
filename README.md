@@ -16,10 +16,10 @@
 ## Parts you should prepare
 * Micro sd extension adapter
 * USB mini-b extension cable
-* Dupont jumper cable (male-female) - <del>3pin (MKS Robin) to 2pin (SKR mini) for fans connection on KP3</del>
-    * JST XH2.5 crimp tool - https://www.amazon.com/IWISS-Terminal-Crimping-SN-01BM-0-08-0-5mm/dp/B019ARWWFY
-    * JST XH2.5 terminal - https://aliexpress.com/item/4000029855783.html
-    * JST XH2.5 connector - https://aliexpress.com/item/32715864245.html
+* JST XH2.5 Connector - `3pin (Stock MKS board)` to `2pin (SKR)` for fans connection on KP3
+    * Crimp tool - https://www.amazon.com/IWISS-Terminal-Crimping-SN-01BM-0-08-0-5mm/dp/B019ARWWFY
+    * Terminal - https://aliexpress.com/item/4000029855783.html
+    * Connector - https://aliexpress.com/item/32715864245.html
 
 * Display - <del>OLED 0.96`, Rotary Switch, Speaker</del>
     * Zonestar OLED Display - https://aliexpress.com/item/4000839370779.html
