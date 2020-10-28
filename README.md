@@ -1,10 +1,14 @@
 # Working set for using SKR mini e3 board on Kingroon KP3
+## WIP
 
 ## Folders
 * Marlin_SKR_E3_v12_KP3 : Marlin for SKR Board
 * Mount : STL, FreeCAD files
     * board_spacer - SKR board mount on KP3
+    * board_spacer2 - Turned place of skr board 90 degree clock wise
+        * Should remove 1 of stock mounting screw on floor of kp3 which hit skr board
     * display - Display mount for `Zonestar OLED Display`
+        * Because rotary encoder handling is hard, made possible to place encoder at left side by turn 180 degree the display board
 
 ## Marlin bugfix 2.0.x - WIP. Please do not use it
 * Marlin code from BIQU github and I fix a bug which not working save.
