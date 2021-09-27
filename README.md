@@ -31,4 +31,4 @@
 ## Todo
 * [ ] <del>Schematic, Pin map for display</del>
 * [V] Mount model for display
-* [ ] Marlin configuragtion for Zonestar LCD using
+* [ ] Upload 12864 display schematic & pcb
