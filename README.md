@@ -18,7 +18,6 @@
 * Not tested yet. You may should check and edit dimension.
 
 ## Parts you should prepare
-* Micro sd extension adapter
 * USB mini-b extension cable
 * JST XH2.5 Connector - `3pin (Stock MKS board)` to `2pin (SKR)` for fans connection on KP3
     * Crimp tool - https://www.amazon.com/IWISS-Terminal-Crimping-SN-01BM-0-08-0-5mm/dp/B019ARWWFY
@@ -27,6 +26,8 @@
 
 * Display - <del>OLED 0.96`, Rotary Switch, Speaker</del>
     * ~~Zonestar OLED Display - https://aliexpress.com/item/4000839370779.html~~ - Not work
+
+* ~~Micro sd extension adapter~~ - Because this give damage to sd card slot in SKR board so, do not use it.
 
 ## Todo
 * [ ] <del>Schematic, Pin map for display</del>
