@@ -26,7 +26,7 @@
     * Connector - https://aliexpress.com/item/32715864245.html
 
 * Display - <del>OLED 0.96`, Rotary Switch, Speaker</del>
-    * Zonestar OLED Display - https://aliexpress.com/item/4000839370779.html
+    * ~~Zonestar OLED Display - https://aliexpress.com/item/4000839370779.html~~ - Not work
 
 ## Todo
 * [ ] <del>Schematic, Pin map for display</del>
