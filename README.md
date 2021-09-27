@@ -18,7 +18,7 @@
 * Not tested yet. You may should check and edit dimension.
 
 ## Parts you should prepare
-* USB mini-b extension cable
+* USB mini-b cable
 * JST XH2.5 Connector - `3pin (Stock MKS board)` to `2pin (SKR)` for fans connection on KP3
     * Crimp tool - https://www.amazon.com/IWISS-Terminal-Crimping-SN-01BM-0-08-0-5mm/dp/B019ARWWFY
     * Terminal - https://aliexpress.com/item/4000029855783.html
