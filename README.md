@@ -10,7 +10,7 @@
     * display - Display mount for `Zonestar OLED Display`
         * Because rotary encoder handling is hard, made possible to place encoder at left side by turn 180 degree the display board
 
-## Marlin bugfix 2.0.x - WIP. Please do not use it
+## Marlin bugfix 2.0.x
 * Marlin code from BIQU github and I fix a bug which not working save.
 
 ## Mount
