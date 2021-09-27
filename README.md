@@ -31,5 +31,5 @@
 
 ## Todo
 * [ ] <del>Schematic, Pin map for display</del>
-* [V] Mount model for display
+* [x] Mount model for display
 * [ ] Upload 12864 display schematic & pcb
